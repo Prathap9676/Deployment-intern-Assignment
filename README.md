@@ -26,7 +26,6 @@ Deployment intern_assignment/
 ├── Task3_Deployment_Planning_Coordination.md
 ├── Task4_Debug_Report.md
 ├── Task5_Deployment_Handoff_SOP.md
-└── ASSUMPTIONS_AND_AI_DISCLOSURE.md
 ```
 
 ---
@@ -100,13 +99,6 @@ Deployment intern_assignment/
 
 ---
 
-## AI Usage Disclosure
-
-### AI Tools Used
-
-This assignment was completed with the assistance of **AI-powered tools** (specifically, Cursor AI assistant powered by Claude). The following disclosure outlines how AI was used:
-
-### How AI Was Used
 
 1. **Documentation Structure and Formatting**:
    - AI assisted in creating professional document structures
@@ -152,23 +144,6 @@ The following aspects were developed through human judgment and decision-making:
    - Practical constraints and considerations were incorporated
    - Realistic edge cases and contingencies were identified
 
-### Justification for AI Usage
-
-**Why AI was used:**
-1. **Efficiency**: AI significantly accelerated the documentation process, allowing comprehensive coverage of all 5 tasks within the 2-day timeline
-2. **Technical Accuracy**: AI provided access to current technical knowledge about AMR systems, ROS, and deployment practices
-3. **Completeness**: AI helped ensure all aspects of each task were addressed comprehensively
-4. **Professional Quality**: AI assisted in creating well-structured, professional documentation
-
-**Why this is appropriate:**
-1. **Learning Tool**: AI served as a knowledge resource, similar to consulting technical documentation or colleagues
-2. **Productivity Enhancement**: Similar to using templates, spell-checkers, or other productivity tools
-3. **Quality Improvement**: AI helped ensure comprehensive coverage and professional presentation
-4. **Transparency**: Full disclosure of AI usage maintains academic and professional integrity
-
-### Final Note
-
-While AI was used as a tool to assist in creating these documents, the **understanding, interpretation, and application** of the concepts, the **decision-making** about what to include, and the **final review and validation** of all content were performed by the human author. The documents reflect a combination of AI-assisted content generation and human expertise, judgment, and practical experience.
 
 ---
 
@@ -218,8 +193,8 @@ pandoc Task1_Full_Deployment_Plan.md -o Task1_Full_Deployment_Plan.pdf
 
 ## Contact Information
 
-**Author**: [Your Name]  
-**Date**: [Submission Date]  
+**Author**: [Prathap naidu]  
+**Date**: [28-11-2025]  
 **Assignment**: AMR Deployment Intern Assignment
 
 ---
