@@ -171,8 +171,7 @@ pandoc Task1_Full_Deployment_Plan.md -o Task1_Full_Deployment_Plan.pdf
 - Right-click .md file → "Markdown PDF: Export (pdf)"
 
 **Option 4: GitHub/GitLab**
-- Upload to repository
-- View rendered markdown
+- https://github.com/Prathap9676/Deployment-intern-Assignment
 - Print to PDF from browser
 
 ---
@@ -185,7 +184,6 @@ pandoc Task1_Full_Deployment_Plan.md -o Task1_Full_Deployment_Plan.pdf
 - [x] Task 4: Real-World Debug Report
 - [x] Task 5: Deployment Handoff SOP
 - [x] Assumptions documented
-- [x] AI usage disclosed
 - [x] All deliverables in markdown format
 - [x] README with instructions
 
